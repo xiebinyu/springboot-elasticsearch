@@ -1,0 +1,20 @@
+.gradle
+/build
+/classes
+build.gradle
+
+# Eclipse
+/build-eclipse/
+/.classpath
+/.project
+/.settings
+
+# Idea
+.idea
+*.iml
+*.ipr
+*.iws
+
+# OS X
+.DS_Store
+/target
